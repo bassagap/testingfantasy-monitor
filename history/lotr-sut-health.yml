@@ -1,7 +1,7 @@
 url: https://lotr.testingfantasy.com/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-19T19:16:55.597Z
+status: up
+code: 200
+responseTime: 280
+lastUpdated: 2026-03-19T19:54:01.653Z
 startTime: 2026-03-19T17:27:09.771Z
 generator: Upptime <https://github.com/upptime/upptime>
