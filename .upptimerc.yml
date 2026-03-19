@@ -2,7 +2,6 @@
 owner: bassagap # Your GitHub organization or username, where this repository lives
 repo: testingfantasy-monitor # The name of this repository
 
-
 sites:
   - name: LOTR SUT Health
     url: https://lotr.testingfantasy.com/api/health
