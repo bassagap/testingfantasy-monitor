@@ -4,9 +4,9 @@
     "url": "https://lotr.fellowship.testingfantasy.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/lotr.fellowship.testingfantasy.com.ico",
     "slug": "lotr-prod-sut-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 383,
     "timeMonth": 385,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   },
   {
     "name": "EC2 Manager Health",
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.fellowship.testingfantasy.com.ico",
     "slug": "docs-lotr-fellowship-health",
     "status": "down",
-    "uptime": "53.57%",
+    "uptime": "42.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.57%",
-    "uptimeMonth": "53.57%",
-    "uptimeYear": "53.57%",
+    "uptimeWeek": "42.00%",
+    "uptimeMonth": "42.00%",
+    "uptimeYear": "42.00%",
     "time": 694,
     "timeDay": 552,
     "timeWeek": 694,
     "timeMonth": 694,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2026-04-15": 165,
+      "2026-04-15": 1230,
       "2026-04-14": 1440,
       "2026-04-13": 190
     }
@@ -130,7 +132,7 @@
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2026-04-15": 165,
+      "2026-04-15": 1230,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 821
@@ -142,13 +144,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitea.fellowship.testingfantasy.com.ico",
     "slug": "shared-gitea-lotr-fellowship-health",
     "status": "up",
-    "uptime": "60.56%",
-    "uptimeDay": "58.14%",
-    "uptimeWeek": "60.56%",
-    "uptimeMonth": "60.56%",
-    "uptimeYear": "60.56%",
+    "uptime": "69.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "69.07%",
+    "uptimeMonth": "69.07%",
+    "uptimeYear": "69.07%",
     "time": 446,
-    "timeDay": 351,
+    "timeDay": 352,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
